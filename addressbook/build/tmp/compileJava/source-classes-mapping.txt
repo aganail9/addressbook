@@ -1,0 +1,8 @@
+com/tts/addressor/Addressor.java
+ com.tts.addressor.Addressor
+ com.tts.addressor.Addressor$1
+ com.tts.addressor.Addressor$SearchType
+com/tts/addressor/Entry.java
+ com.tts.addressor.Entry
+com/tts/Main.java
+ com.tts.Main
